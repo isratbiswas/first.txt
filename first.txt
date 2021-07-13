@@ -1,4 +1,10 @@
 Wow! we are learning git..
 
 
-I have complated my first commit..It's amazing.
+I have complated my first commit..It's
+ amazing.
+
+I have learn a lot about git..
+
+Now I can start using git and git hub...
+
