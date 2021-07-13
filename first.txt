@@ -1,1 +1,4 @@
 Wow! we are learning git..
+
+
+I have complated my first commit..It's amazing.
