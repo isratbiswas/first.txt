@@ -1,1 +1,4 @@
-I am Israt. I am learning git commit. It is awsome exprince.
+I am Israt. I am learning git commit.
+ It is awsome exprince.
+
+Now I can check different commits and its change..
